@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\bloodbank\bin\Debug\bloodbank.mdf
+C:\Users\User\source\repos\bloodbank\bin\Debug\bloodbank_log.ldf
+C:\Users\User\source\repos\bloodbank\bin\Debug\bloodbank.exe.config
+C:\Users\User\source\repos\bloodbank\bin\Debug\bloodbank.exe
+C:\Users\User\source\repos\bloodbank\bin\Debug\bloodbank.pdb
+C:\Users\User\source\repos\bloodbank\obj\Debug\bloodbank.blood.resources
+C:\Users\User\source\repos\bloodbank\obj\Debug\bloodbank.donor.resources
+C:\Users\User\source\repos\bloodbank\obj\Debug\bloodbank.Properties.Resources.resources
+C:\Users\User\source\repos\bloodbank\obj\Debug\bloodbank.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bloodbank\obj\Debug\bloodbank.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bloodbank\obj\Debug\bloodbank.exe
+C:\Users\User\source\repos\bloodbank\obj\Debug\bloodbank.pdb
