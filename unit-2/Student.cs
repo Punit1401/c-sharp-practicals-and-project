@@ -1,4 +1,3 @@
-// Question:
 // Define a class Student, which contains the following information
 // about students: full name, course, subject, university, e-mail and
 // phone_number. Add two methods to collect and display information.
@@ -10,8 +9,6 @@ namespace lab_work_1
     class Student
     {
         string fullName, course, subject, university, email, phoneNumber;
-
-        // Method to collect data
         public void GetData()
         {
             Console.Write("Enter Full Name: ");
@@ -33,7 +30,6 @@ namespace lab_work_1
             phoneNumber = Console.ReadLine();
         }
 
-        // Method to display data
         public void DisplayData()
         {
             Console.WriteLine("\n--- Student Details ---");
