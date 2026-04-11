@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Unit-3\bin\Debug\Unit-3.exe.config
+C:\Users\User\source\repos\Unit-3\bin\Debug\Unit-3.exe
+C:\Users\User\source\repos\Unit-3\bin\Debug\Unit-3.pdb
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit-3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit_3.Calculator.resources
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit_3.CustomerForm.resources
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit_3.Login.resources
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit_3.Properties.Resources.resources
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit_3.Register.resources
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit-3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit-3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit-3.exe
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit-3.pdb
+C:\Users\User\source\repos\Unit-3\obj\Debug\Unit_3.products.resources
