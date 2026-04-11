@@ -51,3 +51,4 @@ namespace lab_work_1
             Console.WriteLine("Phone: " + phone);
         }
     }
+}
