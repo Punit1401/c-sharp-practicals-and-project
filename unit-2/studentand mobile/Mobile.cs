@@ -1,4 +1,8 @@
- class Mobile
+using System;
+
+namespace lab_work_1
+{
+class Mobile
     {
         public string model, manufacturer, owner;
         public double price;
@@ -44,3 +48,4 @@
             Console.WriteLine("Owner: " + nokiaN95.owner);
         }
     }
+}
