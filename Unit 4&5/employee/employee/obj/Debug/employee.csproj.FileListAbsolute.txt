@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\employee\bin\Debug\employee.mdf
+C:\Users\User\source\repos\employee\bin\Debug\employee_log.ldf
+C:\Users\User\source\repos\employee\bin\Debug\employee.exe.config
+C:\Users\User\source\repos\employee\bin\Debug\employee.exe
+C:\Users\User\source\repos\employee\bin\Debug\employee.pdb
+C:\Users\User\source\repos\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\employee\obj\Debug\employee.Form1.resources
+C:\Users\User\source\repos\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Users\User\source\repos\employee\obj\Debug\employee.csproj.GenerateResource.cache
+C:\Users\User\source\repos\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\employee\obj\Debug\employee.exe
+C:\Users\User\source\repos\employee\obj\Debug\employee.pdb
